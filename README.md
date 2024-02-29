@@ -17,7 +17,7 @@
 
  ```console  
 
-curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
+curl -sLkO https://is.gd/kembirinomachinewindows10 ; bash nomachinewindows10
 
  ```
 
@@ -28,7 +28,7 @@ curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
 
  ```console  
 
-curl -sLkO https://is.gd/nomachinewine ; bash nomachinewine
+curl -sLkO https://is.gd/kembirinomachinewine ; bash nomachinewine
 
  ```
 
@@ -38,7 +38,7 @@ curl -sLkO https://is.gd/nomachinewine ; bash nomachinewine
 
  ```console  
 
-curl -sLkO https://is.gd/nomachineMATE ; bash nomachineMATE
+curl -sLkO https://is.gd/kembirinomachineMATE ; bash nomachineMATE
 
  ```
 - XFCE4 Desktop Environment:
