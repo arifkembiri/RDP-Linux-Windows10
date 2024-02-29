@@ -1,4 +1,4 @@
-wget -O ng.sh https://github.com/9ine4our/gatot/raw/main/ngrok.sh > /dev/null 2>&1
+wget -O ng.sh https://github.com/arifkembiri/RDP-linux-windows10/raw/main/ngrok.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 
@@ -19,7 +19,7 @@ read -p "Paste Ngrok Authtoken: " CRP
 ./ngrok config add-authtoken $CRP 
 
 clear
-echo "Repo: https://github.com/9ine4our/Gatot"
+echo "Repo: https://github.com/arifkembiri/RDP-linux-windows10"
 echo "======================="
 echo "choose ngrok region (for better connection)."
 echo "======================="
