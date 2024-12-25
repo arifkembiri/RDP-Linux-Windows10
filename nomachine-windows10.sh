@@ -1,4 +1,4 @@
-wget -O ng.sh https://github.com/arifkembiri/RDP-Linux-Windows10/raw/refs/heads/main/nomachine-windows10.sh > /dev/null 2>&1
+wget -O ng.sh https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine/raw/main/ngrok.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 
