@@ -15,7 +15,7 @@ function goto
 
 : ngrok
 clear
-echo "Go to: https://dashboard.ngrok.com/get-started/your-authtoken"
+echo "Go to (@arifkembiri): https://dashboard.ngrok.com/get-started/your-authtoken"
 read -p "Paste Ngrok Authtoken: " CRP
 ./ngrok config add-authtoken $CRP 
 clear
