@@ -28,7 +28,7 @@ curl -sLkO https://is.gd/kembirinomachinewindows10 ; bash nomachinewindows10
 
  ```console  
 
-curl -sLkO https://is.gd/kembirinomachinewine ; bash nomachinewine
+curl -sLkO https://is.gd/arifkembiriwine ; bash nomachinewine
 
  ```
 
