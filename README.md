@@ -7,7 +7,7 @@
 
 *Enviroment vaiables*
 
-- USER -> user for the nomachine login PASSWORD -> 123456 for the nomachine login
+- USER -> user for the nomachine login PASSWORD -> 123456 for the NoMachine Login
 
 *Usage:*
 
