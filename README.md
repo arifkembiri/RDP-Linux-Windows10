@@ -17,7 +17,7 @@
 
  ```console  
 
-curl -sLkO https://is.gd/kembirinomachinewindows10 ; bash nomachinewindows10
+curl -sLkO https://github.com/arifkembiri/RDP-Windows10-Linux-Version-NoMachine-/raw/main/windows10.sh ; bash nomachinewindows10
 
  ```
 
