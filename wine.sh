@@ -1,4 +1,4 @@
-wget -O ng.sh https://github.com/arifkembiri/RDP-Windows10-Linux-Version-NoMachine-/raw/main/ngrok.sh > /dev/null 2>&1
+wget -O ng.sh https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine/raw/main/ngrok.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 
@@ -20,7 +20,7 @@ read -p "Paste Ngrok Authtoken: " CRP
 ./ngrok config add-authtoken $CRP 
 
 clear
-echo "Repo: https://github.com/arifkembiri"
+echo "Repo: https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine"
 echo "======================="
 echo "choose ngrok region (for better connection)."
 echo "======================="
