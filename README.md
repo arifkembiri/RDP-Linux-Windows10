@@ -17,7 +17,7 @@
 
  ```console  
 
-curl -sLkO https://github.com/arifkembiri/RDP-Windows10-Linux-Version-NoMachine-/raw/main/windows10.sh ; bash nomachinewindows10
+curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
 
  ```
 
@@ -28,7 +28,7 @@ curl -sLkO https://github.com/arifkembiri/RDP-Windows10-Linux-Version-NoMachine-
 
  ```console  
 
-curl -sLkO https://is.gd/arifkembiriwine ; bash nomachinewine
+curl -sLkO https://is.gd/nomachinewine ; bash nomachinewine
 
  ```
 
@@ -38,7 +38,7 @@ curl -sLkO https://is.gd/arifkembiriwine ; bash nomachinewine
 
  ```console  
 
-curl -sLkO https://is.gd/kembirinomachineMATE ; bash nomachineMATE
+curl -sLkO https://is.gd/nomachineMATE ; bash nomachineMATE
 
  ```
 - XFCE4 Desktop Environment:
